@@ -21,8 +21,7 @@
 ### Admin Panel — Cryptographic Ledger Integrity Audit
 ![Ledger Audit](screenshots/ledger_audit.jpg)
 
-### Web Application Interface (VoteChain Website)
-![Web UI](screenshots/website_ui.jpg)
+
 
 ---
 
