@@ -1,16 +1,6 @@
 # ⚡ VoteChain — Secure Online Voting System in C++
 
-<div align="center">
 
-![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL%20%7C%20Windows-informational?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-SHA--256%20Cryptographic%20Hash%20Chain-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Academic%20Project-orange?style=for-the-badge)
-
-**A production-grade, tamper-evident Online Voting System built entirely in C++ with:**  
-**SHA-256 cryptographic hashing · Blockchain-style immutable ledger · Role-based access control · Web application interface**
-
-</div>
 
 ---
 
